@@ -26,8 +26,8 @@ This project is the **first phase** of a program designed to process 3D trench s
 1. Clone this repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/VasilisKokotakis/Aeromine---3D-Trench---Slices-Project.git
+cd Aeromine---3D-Trench---Slices-Project
 ```
 
 2. Install dependencies (Python 3.10+ recommended):
